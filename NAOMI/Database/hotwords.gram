@@ -1,0 +1,4 @@
+#JSGF V1.0;
+grammar hotwords;
+
+public <hotword> = Hey Naomi | Hi Naomi | Okay Naomi | Wake Up Naomi | Good morning Naomi | Good Afternoon Naomi | Good Evening Naomi ;
